@@ -22,6 +22,11 @@ This is a C# console application designed to analyze text files by providing det
 4. The program will automatically read the specified file from the `Input` folder.
 5. Use the interactive menu to perform various text analysis operations.
 
+## How to Use
+1. git clone https://github.com/taimuraftab/TextAnalysisTool.git
+2. cd TextAnalysisTool
+3. Open the BinaryTree.sln file in Visual Studio to run the project
+
 ## Technologies
 
 - C#
